@@ -19,7 +19,7 @@
 		6778038D2814F229004E64AB /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6778038C2814F229004E64AB /* Landmark.swift */; };
 		6778038F2814F9C4004E64AB /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6778038E2814F9C4004E64AB /* ModelData.swift */; };
 		67780394281505F3004E64AB /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67780393281505F3004E64AB /* LandmarkRow.swift */; };
-		6778039628150B3A004E64AB /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 6778039528150B3A004E64AB /* landmarkData.json */; };
+		9423C48128162D000069BE0B /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 9423C48028162D000069BE0B /* landmarkData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +55,7 @@
 		6778038C2814F229004E64AB /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		6778038E2814F9C4004E64AB /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		67780393281505F3004E64AB /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
-		6778039528150B3A004E64AB /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarkData.json; path = ../../../../../../../../Downloads/BuildingListsAndNavigation/Resources/landmarkData.json; sourceTree = "<group>"; };
+		9423C48028162D000069BE0B /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarkData.json; path = /Users/bulsarac/Documents/projects/Landmarks2/Landmarks/Resources/landmarkData.json; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,7 +155,7 @@
 		677803912815036F004E64AB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				6778039528150B3A004E64AB /* landmarkData.json */,
+				9423C48028162D000069BE0B /* landmarkData.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -275,7 +275,7 @@
 			files = (
 				67780360281451B8004E64AB /* Preview Assets.xcassets in Resources */,
 				6778035D281451B8004E64AB /* Assets.xcassets in Resources */,
-				6778039628150B3A004E64AB /* landmarkData.json in Resources */,
+				9423C48128162D000069BE0B /* landmarkData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
